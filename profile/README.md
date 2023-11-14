@@ -1,4 +1,4 @@
-<p align="center"><img valign="middle" src="https://i.imgur.com/yNdsmWm.png"></p>
+<p align="center"><img valign="middle" src="https://i.imgur.com/xFgF5op.png"></p>
 
 <h1 style="font-size:65px;"align="center">《A place filled with light》</h1>
 <h1 style="font-size:65px;"align="center">Mods and Modpacks</h1>
