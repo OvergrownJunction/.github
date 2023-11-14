@@ -1,6 +1,6 @@
-<p align="center"><img valign="middle" src="https://i.imgur.com/bjy26qZ.png"></p>
+<p align="center"><img valign="middle" src="https://i.imgur.com/yNdsmWm.png"></p>
 
-<h1 style="font-size:65px;"align="center">《The void is spreading...》</h1>
+<h1 style="font-size:65px;"align="center">《A place filled with light》</h1>
 <h1 style="font-size:65px;"align="center">Mods and Modpacks</h1>
 
 <h2 style="font-size:60px;"align="center">《Our projects:》</h2>
